@@ -1,0 +1,45 @@
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass\FirstTrass\bin\Debug\FirstTrass.exe.config
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass\FirstTrass\bin\Debug\FirstTrass.exe
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass\FirstTrass\bin\Debug\FirstTrass.pdb
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass\FirstTrass\obj\Debug\FirstTrass.csproj.AssemblyReference.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass\FirstTrass\obj\Debug\FirstTrass.csproj.SuggestedBindingRedirects.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass\FirstTrass\obj\Debug\FirstTrass.Form1.resources
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass\FirstTrass\obj\Debug\FirstTrass.Properties.Resources.resources
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass\FirstTrass\obj\Debug\FirstTrass.csproj.GenerateResource.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass\FirstTrass\obj\Debug\FirstTrass.csproj.CoreCompileInputs.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass\FirstTrass\obj\Debug\FirstTrass.exe
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass\FirstTrass\obj\Debug\FirstTrass.pdb
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass. Final\FirstTrass\bin\Debug\FirstTrass.exe.config
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass. Final\FirstTrass\bin\Debug\FirstTrass.exe
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass. Final\FirstTrass\bin\Debug\FirstTrass.pdb
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.csproj.AssemblyReference.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.csproj.SuggestedBindingRedirects.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.Form1.resources
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.Properties.Resources.resources
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.csproj.GenerateResource.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.csproj.CoreCompileInputs.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.exe
+C:\Users\aeroc\OneDrive\Рабочий стол\Куренков\1 трасса\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.pdb
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Final\FirstTrass\bin\Debug\FirstTrass.exe.config
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Final\FirstTrass\bin\Debug\FirstTrass.exe
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Final\FirstTrass\bin\Debug\FirstTrass.pdb
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.csproj.AssemblyReference.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.csproj.SuggestedBindingRedirects.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.Form1.resources
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.Properties.Resources.resources
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.csproj.GenerateResource.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.csproj.CoreCompileInputs.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.exe
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Final\FirstTrass\obj\Debug\FirstTrass.pdb
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Interface\FirstTrass\bin\Debug\FirstTrass.exe.config
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Interface\FirstTrass\bin\Debug\FirstTrass.exe
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Interface\FirstTrass\bin\Debug\FirstTrass.pdb
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Interface\FirstTrass\obj\Debug\FirstTrass.csproj.AssemblyReference.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Interface\FirstTrass\obj\Debug\FirstTrass.csproj.SuggestedBindingRedirects.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Interface\FirstTrass\obj\Debug\FirstTrass.Form1.resources
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Interface\FirstTrass\obj\Debug\FirstTrass.Properties.Resources.resources
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Interface\FirstTrass\obj\Debug\FirstTrass.csproj.GenerateResource.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Interface\FirstTrass\obj\Debug\FirstTrass.csproj.CoreCompileInputs.cache
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Interface\FirstTrass\obj\Debug\FirstTrass.exe
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Interface\FirstTrass\obj\Debug\FirstTrass.pdb
+C:\Users\aeroc\OneDrive\Рабочий стол\PRG2022\Flying\FirstTrass. Interface\FirstTrass\obj\Debug\FirstTrass.Form3.resources
